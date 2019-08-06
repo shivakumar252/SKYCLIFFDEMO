@@ -24,4 +24,4 @@ const arr : Routes=[
   //{path:'**',redirectTo:'/pagenotfound'}
 ];
 
-export const routing=RouterModule.forRoot(arr);
+export const routing = RouterModule.forRoot(arr);
